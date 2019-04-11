@@ -1,0 +1,34 @@
+.image{
+    background:url(proxy.duckduckgo.com.png);
+    color: blue;
+    height: 100%;
+    width: 100%;
+   
+}
+.bigimage{
+    border:solid 5px;
+    border-width:5px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    height: 680px;width: 480px
+}
+    
+.presentation{
+    text-align: center;
+    font-family: cursive
+}
+
+
+.test{
+    float:left;
+    border:solid 5px;
+    border-width:5px;
+    border-color: rgb(0, 0, 0);
+    
+}
+.couleurtritre{color: blue
+
+}
+.police{
+    font-family: cursive
+}
